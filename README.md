@@ -40,4 +40,4 @@ The contents in this project follow the following structure, where all views are
  
  ------------------------------------
 
-Thank you for checking it out :)
+Thank you for checking it out
